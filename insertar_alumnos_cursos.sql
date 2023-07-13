@@ -1,0 +1,15 @@
+insert into alumnos_cursos (idalumno, idcurso, nota) values (1,1,8);
+insert into alumnos_cursos (idalumno, idcurso, nota) values (2,1,7);
+insert into alumnos_cursos (idalumno, idcurso, nota) values (3,2,5);
+insert into alumnos_cursos (idalumno, idcurso, nota) values (4,3,10);
+insert into alumnos_cursos (idalumno, idcurso, nota) values (5,3,8);
+insert into alumnos_cursos (idalumno, idcurso, nota) values (6,2,9);
+insert into alumnos_cursos (idalumno, idcurso, nota) values (7,1,6);
+insert into alumnos_cursos (idalumno, idcurso, nota) values (8,1,8);
+insert into alumnos_cursos (idalumno, idcurso, nota) values (9,2,7);
+insert into alumnos_cursos (idalumno, idcurso, nota) values (10,2,6);
+insert into alumnos_cursos (idalumno, idcurso, nota) values (1,2,10);
+insert into alumnos_cursos (idalumno, idcurso, nota) values (2,3,8);
+insert into alumnos_cursos (idalumno, idcurso, nota) values (6,3,8);
+insert into alumnos_cursos (idalumno, idcurso, nota) values (5,2,5);
+insert into alumnos_cursos (idalumno, idcurso, nota) values (1,3,9);

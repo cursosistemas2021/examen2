@@ -1,0 +1,10 @@
+insert into alumnos (idalumno, nombre, apellido, idprovincia) values (1, 'JUAN', 'MARTIN', 28);
+insert into alumnos (idalumno, nombre, apellido, idprovincia) values (2, 'MARIA', 'MARTIN', 28);
+insert into alumnos (idalumno, nombre, apellido, idprovincia) values (3, 'PEDRO', 'LOPEZ', 28);
+insert into alumnos (idalumno, nombre, apellido, idprovincia) values (4, 'ANA', 'PEREZ', 28);
+insert into alumnos (idalumno, nombre, apellido, idprovincia) values (5, 'MARTA', 'LOPEZ', 19);
+insert into alumnos (idalumno, nombre, apellido, idprovincia) values (6, 'PABLO', 'LUNA', 19);
+insert into alumnos (idalumno, nombre, apellido, idprovincia) values (7, 'PEDRO', 'SOLANO', 19);
+insert into alumnos (idalumno, nombre, apellido, idprovincia) values (8, 'ALBERTO', 'MORENO', 19);
+insert into alumnos (idalumno, nombre, apellido, idprovincia) values (9, 'LARA', 'PEREZ', 8);
+insert into alumnos (idalumno, nombre, apellido, idprovincia) values (10, 'ANGEL', 'SOLVES', 8);
